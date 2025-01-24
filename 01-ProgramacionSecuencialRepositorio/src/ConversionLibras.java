@@ -1,0 +1,41 @@
+/*
+*Escribir un programa que convierta tres números de
+* kilogramos a libras (1 libra = 0.454kg)
+*
+*/
+
+import javax.swing.*;
+
+public class ConversionLibras {
+    public static void main(String[] args) {
+
+        //Declaracion de constante
+        final double FACTOR_CONVERSION = 0.454;
+        //Declaración de varuables de tres número dobles a convertir
+
+        double numero1 = 10.0;
+        double numero2 = 50.0;
+        double numero3 = 100.0;
+        double c1 = 0.0;
+        double c2 = 0.0;
+        double c3 = 0.0;
+        String salida = "";
+
+        //Solicitar los tres números a calcular
+
+        numero1 = Double.parseDouble(JOptionPane.showInputDialog("Introduce el valor 1: "));
+        numero2 = Double.parseDouble(JOptionPane.showInputDialog("Introduce el valor 2: "));
+        numero3 = Double.parseDouble(JOptionPane.showInputDialog("Introduce el valor 3: "));
+
+        //Proceso de conversión
+        c1 = numero1 / FACTOR_CONVERSION;
+        c2 = numero2 / FACTOR_CONVERSION;
+        c3 = numero3 / FACTOR_CONVERSION;
+
+        salida =  numero1 + " kg" + " en libras es: " + String.format("%.3f",c1) +
+                "\n" + numero2 + " kg" + " en libras es: " + String.format("%.3f",c2) +
+                "\n" + numero3 + " kg" + " en libras es: " + String.format("%.3f",c3);
+
+        JOptionPane.showMessageDialog(null, salida);
+    }
+}
