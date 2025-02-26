@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="808dcd18-31f0-4326-96ca-9d42a47c354c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01-ProgramacionSecuencialRepositorio/src/AreaYPerimetroCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-ProgramacionSecuencialRepositorio/src/ConversionMilimetros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-ProgramacionSecuencialRepositorio/src/CuadradosEnteros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-ProgramacionSecuencialRepositorio/src/PromedioNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-ProgramacionSecuencialRepositorio/src/ValorX.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-ProgramacionSecuencialRepositorio/src/ValorX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramacionEstructurada.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/AreaCirculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/AreaTriangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/ConversionLibras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/ConversionLibras2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/Expresion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/Expresiones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramacionEstructurada/SueldoEmpleado.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rzVaquJAKaN7ypnAhnjhKGt83K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AreaCirculo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaYPerimetroCirculo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversionLibras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversionMilimetros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CuadradosEnteros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Expresion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Expresiones.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HolaMundo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PromedioNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SueldoEmpleado.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kitia/OneDrive/Imágenes/ProgramacionEstructurada&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.AreaYPerimetroCirculo">
+    <configuration name="AreaYPerimetroCirculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaYPerimetroCirculo" />
+      <module name="ProgramacionEstructurada" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionMilimetros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionMilimetros" />
+      <module name="ProgramacionEstructurada" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuadradosEnteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CuadradosEnteros" />
+      <module name="ProgramacionEstructurada" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PromedioNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PromedioNumeros" />
+      <module name="ProgramacionEstructurada" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SueldoEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SueldoEmpleado" />
+      <module name="ProgramacionEstructurada" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaYPerimetroCirculo" />
+        <item itemvalue="Application.ConversionMilimetros" />
+        <item itemvalue="Application.PromedioNumeros" />
+        <item itemvalue="Application.CuadradosEnteros" />
+        <item itemvalue="Application.SueldoEmpleado" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="808dcd18-31f0-4326-96ca-9d42a47c354c" name="Changes" comment="" />
+      <created>1737561956347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737561956347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

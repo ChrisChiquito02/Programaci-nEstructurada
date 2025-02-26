@@ -7,6 +7,8 @@
 public class ValorX {
     public static void main(String[] args) {
         //Declaración de variables
-        
+        double x=0.0;
+
+        //Calculo del valor de X
     }
 }
